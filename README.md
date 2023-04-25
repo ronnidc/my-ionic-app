@@ -1,4 +1,7 @@
 # my-ionic-app
+
+*Archived April 25. 2023. Outdated starter app*
+
 Playing with Ionic 2
 
 Docs: [ionicframework.com/docs/v2/](http://ionicframework.com/docs/v2/)
